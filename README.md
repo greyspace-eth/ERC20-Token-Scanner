@@ -18,7 +18,7 @@ ERC20 Token Scanner is a bot that scans for newly created ERC20 tokens on Ethere
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/erc20-token-scanner.git
+    git clone https://github.com/greyspace-eth/erc20-token-scanner.git
     cd erc20-token-scanner
     ```
 
